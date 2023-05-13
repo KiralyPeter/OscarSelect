@@ -14,7 +14,7 @@ public class OscarSelect {
             "jdbc:mariadb://localhost/",
             "oscar", 
             "root", 
-            "Mf2Hd6574");
+            "");
 
        
         try {
