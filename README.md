@@ -1,4 +1,4 @@
-# OscarSelect.jar a "SZOFT I/2/E-Adatbázis-kezelés I." tantárgyhoz.
+# OscarSelect program a "SZOFT I/2/E-Adatbázis-kezelés I." tantárgyhoz.
 A program nem egyszerre futtatja az összes feladatot, hanem argumentumként kell átadni a feladat sorszámát.
 A feladatok leírása a "oscarFeladat.pdf" dokumentumban található.
 
