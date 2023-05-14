@@ -13,7 +13,7 @@ public class OscarSelect {
         DbQuery testSelect = new DbQuery(
             "jdbc:mariadb://localhost/",
             "oscar", 
-            "root", 
+            "", 
             "");
 
        

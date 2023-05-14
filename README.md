@@ -3,7 +3,7 @@ A program nem egyszerre futtatja az összes feladatot, hanem argumentumként kel
 A feladatok leírása a "oscarFeladat.pdf" dokumentumban található.
 
 A program a helyi adatbázis kiszolgálón lévő **'oscar'** adatbázis **'filmek'** táblájából dolgozik. A sikeres működés feltétele ennek az adatbázisnak és táblának a megléte.
-Az adatbázist és a táblát az **"Oscar.jar"** futtatásával és a hozzá tartozó **"filmek.txt"** használatával lehet létrehozni.
+Az adatbázist és a táblát az **"Oscar.jar"** testvérprogram futtatásával és a hozzá tartozó **"filmek.txt"** használatával lehet létrehozni.
 
 A program futtatása:\
 <code>java -jar OscarSelect.jar <feladat sorszáma (1-10)></code>
